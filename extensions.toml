@@ -10,7 +10,7 @@ version = "0.0.1"
 submodule = "extensions/1984-theme"
 version = "0.1.3"
 
-[abysswalker]
+[abysswalker-theme]
 submodule = "extensions/abysswalker-theme"
 version = "0.1.0"
 
