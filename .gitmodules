@@ -4022,5 +4022,5 @@
 	path = extensions/zwirn
 	url = https://codeberg.org/polymorphicengine/zwirn-zed-extension.git
 [submodule "extensions/abysswalker"]
-	path = extensions/abysswalker
+	path = extensions/abysswalker-theme
 	url = https://github.com/ModusTeam/abysswalker-zed
