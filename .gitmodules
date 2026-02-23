@@ -12,7 +12,7 @@
 
 [submodule "extensions/abysswalker-theme"]
 	path = extensions/abysswalker-theme
-	url = https://github.com/ModusTeam/abysswalker-zed
+	url = https://github.com/ModusTeam/abysswalker-zed.git
 
 [submodule "extensions/actionscript"]
 	path = extensions/actionscript
